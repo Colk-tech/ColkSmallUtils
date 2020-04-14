@@ -1,6 +1,6 @@
 # ColkSmallUtils
 
-[英語版も利用できます / Japanese version is also available here](https://github.com/Colk-tech/ColkDotFiles/blob/master/README.md)
+[英語版も利用できます / Japanese version is also available here](https://github.com/Colk-tech/ColkSmallUtils/blob/master/README.md)
 
 このリポジトリは[私](https://github.com/Colk-tech)のちょっとした便利ツールを公開するためのものです。
 
